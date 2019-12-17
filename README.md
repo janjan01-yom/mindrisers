@@ -1,0 +1,2 @@
+# mindrisers
+GitHub Pages
